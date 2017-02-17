@@ -1,1 +1,1 @@
-Exercises and Notes from [Fundamentals of functional programming](https://medium.freecodecamp.com/learning-the-fundamentals-of-functional-programming-425c9fd901c6#.4k7swzbyy) by [Preeti Kasireddy](https://medium.com/@preethikasireddy)
+# Exercises and Notes from [Fundamentals of functional programming](https://medium.freecodecamp.com/learning-the-fundamentals-of-functional-programming-425c9fd901c6#.4k7swzbyy) by [Preeti Kasireddy](https://medium.com/@preethikasireddy)
